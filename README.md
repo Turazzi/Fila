@@ -24,4 +24,4 @@
 
 <h3>Entrada e saída:</h3>
 <p>Seu programa deve entrar com um identificador do tipo do cliente, seguido do seu nome. O identificador para clientes prioridade é a letra p, enquanto que para clientes gerais é a letra g. Quando um caixa é liberado, então o próximo da fila é chamado, por meio do comando s. Ao inserir o comando f, é indicado que o expediente do banco se encerrou e então deve ser impressa a ordem em que os clientes foram atendidos.</p>
-<p>Exemplo de entrada e saída:</p>
+
